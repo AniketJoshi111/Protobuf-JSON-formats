@@ -1,0 +1,26 @@
+# Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# Protobuf Generated Files
+example_pb2.py
+example_pb2_grpc.py
+
+# Logs & Debug Files
+*.log
+*.out
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
