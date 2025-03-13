@@ -26,13 +26,14 @@ python main.py
 ```
 
 ### 📂 File Structure
-
+``` bash
 /PROTOBUF-BENCHMARK
 │-- example.proto       # Protobuf schema
 │-- example_pb2.py      # Generated Protobuf code (ignored in Git)
 │-- main.py             # Main script
 │-- .gitignore          # Ignore unnecessary files
 │-- README.md           # Project documentation
+```
 
 ![Results](https://res.cloudinary.com/drmf1p99g/image/upload/v1741877111/WhatsApp_Image_2025-03-13_at_20.02.39_cd6fa40f_xptydj.jpg)
 
